@@ -56,7 +56,6 @@ body {
 .subtitle {
   display: block;
   font-size: var(--fs-h3);
-  /* transform: rotate(4deg); */
   text-align: center;
 }
 
