@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/expert-eureka/static/css/main.d9ac8e50.chunk.css",
+    "main.js": "/expert-eureka/static/js/main.67d05476.chunk.js",
+    "main.js.map": "/expert-eureka/static/js/main.67d05476.chunk.js.map",
+    "runtime-main.js": "/expert-eureka/static/js/runtime-main.25824327.js",
+    "runtime-main.js.map": "/expert-eureka/static/js/runtime-main.25824327.js.map",
+    "static/js/2.b1139320.chunk.js": "/expert-eureka/static/js/2.b1139320.chunk.js",
+    "static/js/2.b1139320.chunk.js.map": "/expert-eureka/static/js/2.b1139320.chunk.js.map",
+    "static/js/3.18d97167.chunk.js": "/expert-eureka/static/js/3.18d97167.chunk.js",
+    "static/js/3.18d97167.chunk.js.map": "/expert-eureka/static/js/3.18d97167.chunk.js.map",
+    "index.html": "/expert-eureka/index.html",
+    "static/css/main.d9ac8e50.chunk.css.map": "/expert-eureka/static/css/main.d9ac8e50.chunk.css.map",
+    "static/js/2.b1139320.chunk.js.LICENSE.txt": "/expert-eureka/static/js/2.b1139320.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25824327.js",
+    "static/js/2.b1139320.chunk.js",
+    "static/css/main.d9ac8e50.chunk.css",
+    "static/js/main.67d05476.chunk.js"
+  ]
+}
