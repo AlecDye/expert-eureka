@@ -96,8 +96,13 @@ body {
 }
 .blog-preview h2 {
   font-size: 20px;
-  color: #f1356d;
+  color: var(--clr-accent);
   margin-bottom: 8px;
+}
+
+.blog-preview a {
+  text-decoration: none;
+  color: var(--clr-dark);
 }
 
 .author-box {
@@ -105,4 +110,54 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+/* blog details page */
+.blog-details h2 {
+  font-size: 20px;
+  color: var(--clr-accent);
+  margin-bottom: 10px;
+}
+.blog-details div {
+  margin: 20px 0;
+}
+.blog-details button {
+  background: var(--clr-accent);
+  color: var(--clr-light);
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* create new blog form */
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+.create h2 {
+  font-size: 20px;
+  color: var(--clr-accent);
+  margin-bottom: 30px;
+}
+.create input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+  background: var(--clr-accent);
+  color: var(--clr-light);
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
 }
