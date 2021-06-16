@@ -1,7 +1,10 @@
 const Navbar = () => {
   return (
     <header className="header">
-      <h1>Eureka Expert</h1>
+      <div className="title-container">
+        <h1>Eureka Expert</h1>
+        <small className="subtitle" >Super Micro-blog</small>
+      </div>
       <nav className="nav">
         <ul>
           <li><a href="#">Home</a></li>

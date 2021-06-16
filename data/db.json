@@ -1,0 +1,7 @@
+{
+  "blogs": [
+    {"title": "My new website", "previewText": "Lorem\nipsum dolor sit amet...", "author": "Hector", "id": 1, "date": "June 13, 2021"},
+    {"title": "Let's dive in!", "previewText": "Lorem ipsum dolor sit amet...", "author": "Josh", "id": 2, "date": "June 14, 2021"},
+    {"title": "Web Dev Tips", "previewText": "Lorem ipsum dolor sit amet...", "author": "Hector", "id": 3, "date": "June 15, 2021"}
+  ]
+}
